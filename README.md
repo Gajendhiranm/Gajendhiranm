@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendhiranm&label=Profile%20views&color=0e75b6&style=flat" alt="gajendhiranm" /> </p>
 
-- 🌱 I’m currently learning **AngularJS, Flutter**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 👨‍💻 All of my projects are available at [https://gajendhiranm.github.io/](https://gajendhiranm.github.io/)
 
