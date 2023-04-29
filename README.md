@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gajendhiran/](https://www.linkedin.com/in/gajendhiran/)
 
-- ⚡ Fun fact **Introvert | Nytophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,8 +19,6 @@
 <a href="https://instagram.com/gajendhiran_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gajendhiran_m_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajendhiranm&show_icons=true&locale=en&layout=compact" alt="gajendhiranm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajendhiranm&show_icons=true&locale=en" alt="gajendhiranm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendhiranm&" alt="gajendhiranm" /></p>
